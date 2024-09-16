@@ -1,3 +1,5 @@
+![1721053085432](https://github.com/user-attachments/assets/2c93b2e7-c5b0-4c50-86bf-ca12c7a16026)
+
 ## HELLO WORLD 👋
 
 # Olá! 👋

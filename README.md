@@ -20,7 +20,7 @@ Além da minha carreira em TI, tenho algumas paixões que me mantêm inspirado:
 
 ## O Que Estou Fazendo Agora
 
-Atualmente, estou fazendo graduação em [Redes de Computadores](#), estou em  um curso de especialização [Analista em Nuvem](#), estou estagio em [Compass UOL para AWS](#) e explorando novas tendências em tecnologia. Se você tem interesse em colaborar ou discutir sobre tecnologia, estou sempre aberto para novas conexões!
+Atualmente, estou fazendo graduação em [Redes de Computadores](#), estou em  um curso de especialização [Analista em Nuvem](#), estou estagiando em [Compass UOL para AWS](#) e explorando novas tendências em tecnologia. Se você tem interesse em colaborar ou discutir sobre tecnologia, estou sempre aberto para novas conexões!
 
 ## Como Entrar em Contato
 

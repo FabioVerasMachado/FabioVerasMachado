@@ -2,7 +2,7 @@
 
 ##  "HELLO, WORLD" 👋
 
-# Olá! 👋
+# Olá! 
 
 ## Quem Sou Eu
 

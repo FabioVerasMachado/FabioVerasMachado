@@ -1,3 +1,4 @@
+![Capa para Facebook de cabeçalho para site estilo monocromático com foto em turquesa](https://github.com/user-attachments/assets/c95c52fa-9363-41a8-9288-1786e28df630)
 
 ## "HELLO, WORLD" 👋
 

@@ -81,7 +81,7 @@ Currently, I’m pursuing a degree in [Computer Networks](#), taking a specializ
 - 🇫🇷 French: Basic
 - 🇮🇹 Italian: Basic
 - 🇨🇳 Mandarin: Beginner
-- 
+
 ## How to Get in Touch
 
 You can find me on social media or contact me through the following channels:

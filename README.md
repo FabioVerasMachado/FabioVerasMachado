@@ -33,6 +33,14 @@ Atualmente, estou fazendo graduação em [Redes de Computadores](#), um curso de
 - 🇮🇹 Italiano: Básico
 - 🇨🇳 Mandarim: Iniciante
 
+## 📂 Repositórios
+
+- 🔧 **[Atividade01_AWS](https://github.com/FabioVerasMachado/Atividade01-AWS.git)**
+- ⚠️ **[PagWeb](https://github.com/FabioVerasMachado/PagWeb.git)**
+- ⚠️ **[RedeLocal_PI-Senac](https://github.com/FabioVerasMachado/RedeLocal_PI-Senac.git)**
+- ⚠️ **[ProjetoSocial_Cooper](https://github.com/FabioVerasMachado/ProjetoSocial_Cooper.git)**
+
+
 ## Como Entrar em Contato
 
 Você pode me encontrar nas redes sociais ou entrar em contato através dos seguintes canais:
@@ -81,6 +89,14 @@ Currently, I’m pursuing a degree in [Computer Networks](#), taking a specializ
 - 🇫🇷 French: Basic
 - 🇮🇹 Italian: Basic
 - 🇨🇳 Mandarin: Beginner
+
+## 📂 Repositories
+
+- 🔧 **[Atividade01_AWS](https://github.com/FabioVerasMachado/Atividade01-AWS.git)**
+- ⚠️ **[PagWeb](https://github.com/FabioVerasMachado/PagWeb.git)**
+- ⚠️ **[RedeLocal_PI-Senac](https://github.com/FabioVerasMachado/RedeLocal_PI-Senac.git)**
+- ⚠️ **[ProjetoSocial_Cooper](https://github.com/FabioVerasMachado/ProjetoSocial_Cooper.git)**
+
 
 ## How to Get in Touch
 

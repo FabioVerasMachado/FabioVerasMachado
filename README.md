@@ -58,6 +58,8 @@ Espero que possamos conectar e colaborar em algo incrível! 🌟
 👨‍💻 **Fábio Veras**  
 São Paulo, Brasil
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-veras-6a79b0285)
+
 
 ![1721053085432](https://github.com/user-attachments/assets/2c93b2e7-c5b0-4c50-86bf-ca12c7a16026)
 
@@ -114,3 +116,5 @@ I hope we can connect and collaborate on something amazing! 🌟
 
 👨‍💻 **Fábio Veras**  
 São Paulo, Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-veras-6a79b0285)

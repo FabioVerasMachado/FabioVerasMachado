@@ -39,6 +39,8 @@ Atualmente, estou fazendo graduação em [Redes de Computadores](#), um curso de
 - ⚠️ **[PagWeb](https://github.com/FabioVerasMachado/PagWeb.git)**
 - ⚠️ **[RedeLocal_PI-Senac](https://github.com/FabioVerasMachado/RedeLocal_PI-Senac.git)**
 - ⚠️ **[ProjetoSocial_Cooper](https://github.com/FabioVerasMachado/ProjetoSocial_Cooper.git)**
+  
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lgc65oqBRXE)
 
 
 ## Como Entrar em Contato
@@ -98,6 +100,9 @@ Currently, I’m pursuing a degree in [Computer Networks](#), taking a specializ
 - ⚠️ **[PagWeb](https://github.com/FabioVerasMachado/PagWeb.git)**
 - ⚠️ **[RedeLocal_PI-Senac](https://github.com/FabioVerasMachado/RedeLocal_PI-Senac.git)**
 - ⚠️ **[ProjetoSocial_Cooper](https://github.com/FabioVerasMachado/ProjetoSocial_Cooper.git)**
+  
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lgc65oqBRXE)
+
 
 
 ## How to Get in Touch

@@ -8,7 +8,7 @@
 
 Meu nome é **Fábio Veras** e sou de **São Paulo-Capital, Brasil**. 🇧🇷
 
-Sou um **viajante da área de TI** com especialização em **Redes de Computadores**. 🌐💻 Adoro explorar novas tecnologias e me aventurar em projetos desafiadores.
+Sou um **viajante na área de TI** com especialização em **Redes de Computadores**. 🌐💻 Adoro explorar novas tecnologias e me aventurar em projetos desafiadores.
 
 ## Minhas Paixões
 
